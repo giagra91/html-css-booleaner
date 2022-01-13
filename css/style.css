@@ -25,14 +25,14 @@ body{
 
 .white{
     color: white;
-    font-size: 15px;
+    font-size: 30px;
     position: absolute;
+    top: 0;
+    left: 0;
 }
 
 .footer{
     position: relative;
-    width: 200px;
-    height: 200px;
 }
 
 
