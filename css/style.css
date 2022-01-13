@@ -1,6 +1,7 @@
 header{
-    background-image: url( "img/");
-    height: 60px;
+    background-color: cornflowerblue;
+    background-image: url( "../img/pattern.png");
+    height: 200px;
 }
 
 body{    
@@ -35,6 +36,10 @@ body{
     position: relative;
 }
 
+.half-width{
+    width: 50%;
+}
+
 
 #bool{
     color: lightblue;
@@ -42,4 +47,10 @@ body{
 
 #blue{
     background-color: rgb(71, 113, 204);
+}
+
+#logo{
+    margin-left: 10px;
+    margin-top: 110px;
+    width: 300px;
 }
