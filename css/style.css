@@ -3,8 +3,7 @@ header{
     height: 60px;
 }
 
-body{
-    
+body{    
 }
 
 .head{
@@ -12,11 +11,35 @@ body{
     height: 500px;
 }
 
-#logo {
-    width: 150px;
-    height: 150px;
+.tablerow{
+    background-color: aqua;
 }
+
+.yellow {
+    background-color: yellow;
+}
+
+.grey{
+    color: grey;
+}
+
+.white{
+    color: white;
+    font-size: 15px;
+    position: absolute;
+}
+
+.footer{
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+
 
 #bool{
     color: lightblue;
+}
+
+#blue{
+    background-color: rgb(71, 113, 204);
 }
